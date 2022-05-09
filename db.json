@@ -1,7 +1,7 @@
 {
   "empleados": [
-       { "id":"1" , "nombre":"Jorge" , "apellido":"Mesa", "edad":28 },
-       { "id":"2" , "nombre":"Ana" , "apellido":"Sánchez", "edad":21 },
-       { "id":"3" , "nombre":"Pedro" , "apellido":"Lee","edad":44 }
+       { "id":"1" , "nombre":"Jorge" , "apellido":"Mesa", "departamento":"Dirección", "puesto":"Gerente", "telefono":620111, "email":"j.mesa@apibirt.com"},
+       { "id":"2" , "nombre":"Ana" , "apellido":"Sánchez", "departamento":"Administración", "puesto":"Administrativo","telefono":620112, "email":"a.sanchez@apibirt.com" },
+       { "id":"3" , "nombre":"Pedro" , "apellido":"Lee", "departamento":"IT", "puesto":"IT Project Manager","telefono":620113, "email":"p.lee@apibirt.com" }
     ]
 }
