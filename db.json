@@ -1,7 +1,10 @@
 {
   "empleados": [
-       { "id":"1" , "nombre":"Jorge" , "apellido":"Mesa", "departamento":"Dirección", "puesto":"Gerente", "telefono":620111, "email":"j.mesa@apibirt.com"},
-       { "id":"2" , "nombre":"Ana" , "apellido":"Sánchez", "departamento":"Administración", "puesto":"Administrativo","telefono":620112, "email":"a.sanchez@apibirt.com" },
-       { "id":"3" , "nombre":"Pedro" , "apellido":"Lee", "departamento":"IT", "puesto":"IT Project Manager","telefono":620113, "email":"p.lee@apibirt.com" }
+       { "id":"1" , "nombre":"Jorge" , "apellido":"Mesa Perez", "departamento":"Dirección", "puesto":"Gerente", "telefono":620111, "email":"j.mesa@apibirt.com"},
+       { "id":"2" , "nombre":"Ana" , "apellido":"Sánchez Campos", "departamento":"Administración", "puesto":"Administrativo","telefono":620112, "email":"a.sanchez@apibirt.com" },
+       { "id":"3" , "nombre":"Pedro" , "apellido":"Lee Garcia", "departamento":"IT", "puesto":"IT Project Manager","telefono":620113, "email":"p.lee@apibirt.com" },
+       { "id":"4" , "nombre":"Isabel" , "apellido":"Fernandez Tosa", "departamento":"Servicios", "puesto":"Analista","telefono":620114, "email":"i.fernandez@apibirt.com" },
+       { "id":"5" , "nombre":"Eva" , "apellido":"Iturrino Gomez", "departamento":"Cliente Final", "puesto":"Help desk","telefono":620115, "email":"e.iturrino@apibirt.com" },
+       { "id":"6" , "nombre":"Iñigo" , "apellido":"Fernandez Llanos", "departamento":"RRHH", "puesto":"Talent recruiter","telefono":620116, "email":"i.fernandez@apibirt.com" }
     ]
 }
